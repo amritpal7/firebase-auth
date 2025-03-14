@@ -9,7 +9,7 @@ import {
   TooltipTrigger,
 } from "@/components/ui/tooltip";
 import { DATA } from "@/app/data/dock-data";
-import { cn } from "@/lib/utils";
+import { cn } from "@/lib/auth/utils";
 import Link from "next/link";
 // import useAuth from "@/app/hooks/useAuth";
 

@@ -1,4 +1,4 @@
-import { cn } from "@/lib/utils";
+import { cn } from "@/lib/auth/utils";
 import { AnimatedShinyText } from "./magicui/animated-shiny-text";
 import Link from "next/link";
 
